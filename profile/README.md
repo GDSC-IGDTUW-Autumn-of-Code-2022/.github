@@ -13,3 +13,7 @@ Join us at GDSC IGDTUW Autumn of Code 🍁 to revolutionize the Open Source doma
 3. Once that issue is assigned to you, start working on it.
 4. Repository specific contribution information is in the respective READMEs of each repo.
 5. Do not abuse and/or use bad language. Ensure you don't insult anyone. Be respectful and inclusive.
+6. Please mention your full name on your GitHub handle to be eligible for prizes.
+
+### For Contributors that identify as women
+- Mention your pronouns in the profile to be eligible for the women only prizes.
