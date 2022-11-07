@@ -1,3 +1,7 @@
+
+![Autumn of Code](https://user-images.githubusercontent.com/79600026/200415637-5e3b4b11-a4e9-498c-a180-cb63111d1cfc.png)
+
+
 # GDSC IGDTUW Autumn of Code 🍁
 
 GDSC is a community of developers backed by Google, that aims to solve local problems with google technologies. Google Developer Student Club Indira Gandhi Delhi Technical University for Women is conducting our very own open-source event: 
